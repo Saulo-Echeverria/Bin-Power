@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+#game-area {
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    background-color: #dcdcdc;
+    position: relative;
+    overflow: hidden;
+}
+
+#score-panel {
+    font-size: 18px;
+    margin: 20px;
+}
+
+button {
+    padding: 10px;
+    font-size: 18px;
+    margin: 5px;
+}
